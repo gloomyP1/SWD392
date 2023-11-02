@@ -21,8 +21,8 @@ const Singleblog = () => {
                 </Link>
                 <h3 className="title">A beautiful shoes</h3>
                 <img
-                  src="../../public/images/blogshoes.jpg"
-                  className="img-fluid w-100"
+                  src="https://i.pinimg.com/564x/60/ff/52/60ff52b9ff1799ea84e52ce39b9efe83.jpg"
+                  className="img-fluid w-1"
                   alt="blog"
                 />
                 <p>
